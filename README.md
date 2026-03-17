@@ -1,25 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sasanka Akash</h1>
-<h3 align="center">A passionate IT student from Sri Lanka</h3>
+# 👋 Hi, I'm Sasanka Akash Jayasuriya  
+**Full-Stack Developer | AI/ML Enthusiast | IT Undergraduate at SLIIT**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22258380&label=Profile%20views&color=0e75b6&style=flat" alt="it22258380" /> </p>
-
-- 🌱 I’m currently learning **Python,React JS,DSA**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **akashsasanka480@gmail.co**
-
-- ⚡ Fun fact **Counting starts from zero,not one**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sasanka akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasanka akash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sasanka_akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sasanka_akash" height="30" width="40" /></a>
-<a href="https://discord.gg/akash068875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akash068875" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sasanka-akash" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akashsasanka480@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.leetcode.com/sasanka_akash" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+[cite_start]I am a results-driven IT undergraduate with a passion for building scalable applications and exploring the frontiers of Machine Learning[cite: 4, 7]. [cite_start]Recently, I completed a **6-month Software Engineering Internship** where I worked extensively with the MERN stack, Spring Boot, and Microservices[cite: 9, 10, 14].
+
+- 🎓 **Education:** B.Sc. (Hons) [cite_start]in Information Technology at SLIIT (Expected 2026) [cite: 39, 40]
+- [cite_start]🔍 **Current Focus:** Conducting research in the **AI/ML domain** [cite: 5, 41]
+- [cite_start]🌱 **Learning:** Deepening my knowledge in **Data Structures & Algorithms** and **Next.js** [cite: 4, 50]
+- ⚡ **Fun Fact:** I believe counting starts from zero, not one!
+
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js, Next.js, React Native (Expo), Tailwind CSS [cite: 16] |
+| **Backend** | [cite_start]Node.js, Express.js, Spring Boot, Java, PHP [cite: 17] |
+| **Databases** | [cite_start]MongoDB, MySQL, MS SQL, Oracle, PL/SQL [cite: 18] |
+| **AI/ML & DevOps** | [cite_start]OpenAI API, Docker, Microservices, Git [cite: 13, 14, 19, 21] |
+
+---
+
+### 📂 Featured Projects
+
+#### 🏥 [Medicart](https://github.com/it22258380) - Online Pharmacy Management System
+* [cite_start]A full-stack MERN application featuring an **AI Chatbot** (OpenAI API) for medical order management.
+* [cite_start]*Tech: MongoDB, Express, React, Node, OpenAI API* [cite: 25]
+
+#### 🔄 [SkillSync](https://github.com/it22258380) - Skill-Sharing Platform
+* [cite_start]A comprehensive platform for skill exchange with interactive learning modules and engagement tracking[cite: 26, 28].
+* [cite_start]*Tech: Spring Boot, React.js, MongoDB* [cite: 29]
+
+#### 💡 [Chandika Lights](https://github.com/it22258380) - Event Management System
+* [cite_start]A production-ready system managing inventory, orders, and maintenance for a real-world client[cite: 30, 31, 32].
+* [cite_start]*Tech: MERN Stack* [cite: 33]
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22258380&layout=compact&langs_count=8&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=it22258380&show_icons=true&theme=react&include_all_commits=true" />
+</p>
+
+---
+
+### 🏆 Certifications
+- [cite_start]**AI/ML Engineer Stage 1** - SLIIT [cite: 45]
+- [cite_start]**Python Programming** - University of Moratuwa [cite: 46]
+- [cite_start]**SQL (Advanced)** - HackerRank [cite: 47]src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22258380&show_icons=true&locale=en&layout=compact" alt="it22258380" /></p>
 
